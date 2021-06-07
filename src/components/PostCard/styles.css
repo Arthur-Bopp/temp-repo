@@ -1,0 +1,19 @@
+.post:hover {
+  transform: scale(1.025);
+}
+
+.post {
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  margin: 15px;
+  border-radius: 8px;
+}
+
+.post img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.post-content {
+  padding: 30px;
+}
